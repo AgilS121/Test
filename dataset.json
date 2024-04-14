@@ -929,7 +929,7 @@
     },
 
     {
-      "nama": "Penuaan_Dini",
+      "kategori": "Penuaan_Dini",
       "pertanyaan": [
         { "id": 1, "tesk": "apa penyebab penuaan dini" },
         {
@@ -995,7 +995,7 @@
     },
 
     {
-      "nama": "Stretch_Mark",
+      "kategori": "Stretch_Mark",
       "pertanyaan": [
         { "id": 1, "tesk": "apa penyebab stretch mark" },
         { "id": 2, "tesk": " Bagaimana stretch mark terbentuk pada kulit" },
@@ -1034,7 +1034,7 @@
     },
 
     {
-      "nama": "Rosacea",
+      "kategori": "Rosacea",
       "pertanyaan": [
         { "id": 1, "tesk": "Apa yang menyebabkan rosacea pada kulit" },
         { "id": 2, "tesk": " Apa saja gejala yang umum terjadi pada rosacea" },
@@ -1079,7 +1079,7 @@
     },
 
     {
-      "nama": "Breakout",
+      "kategori": "breakout",
       "pertanyaan": [
         { "id": 1, "tesk": "Apa yang dimaksud dengan breakout pada kulit" },
         { "id": 2, "tesk": "Apa penyebab utama dari breakout" },
@@ -1128,7 +1128,7 @@
     },
 
     {
-      "nama": "Hiperpigmentasi",
+      "kategori": "Hiperpigmentasi",
       "pertanyaan": [
         { "id": 1, "tesk": "apa yang dimaksud hiperpigmentasi pada kulit" },
         { "id": 2, "tesk": "Apa penyebab hiperpigmentasi pada kulit" },
@@ -1169,7 +1169,7 @@
     },
 
     {
-      "nama": "Eczema",
+      "kategori": "Eczema",
       "pertanyaan": [
         { "id": 1, "tesk": "apa yang dimaksud dengan eczema" },
         { "id": 2, "tesk": "Apa saja tanda dan gejala eczema" },
